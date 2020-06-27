@@ -1,0 +1,18 @@
+.footer {
+  background-color: #0A0A0A;
+  color: #F6F9F1;
+  min-height: 2rem;
+  display: flex;
+  flex-direction: column;
+  font-family: $font-text;
+  font-size: 1rem;
+  justify-content: center;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.footer_text {
+  font-family: $font-headings;
+  font-size: 0.7rem;
+  padding-bottom: 0.3rem;
+}

@@ -1,0 +1,22 @@
+.header {
+  background-color: #0A0A0A;
+  color: #F6F9F1;
+  min-height: 4rem;
+}
+
+.navb {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: space-around;
+  min-height: 10vh;
+
+  .navb-brand {
+    font-family: $font-headings;
+    font-size: 2.25rem;
+    margin-left: 1rem;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+}
